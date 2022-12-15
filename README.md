@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Create a gaming video and add humor to it
 * Understand career prospects in the world of video editing
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-801-81420-1) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801814201) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
