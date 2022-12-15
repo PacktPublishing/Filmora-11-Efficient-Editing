@@ -28,7 +28,7 @@ All of the code is organized into folders. For example, Chapter02.
 **Following is what you need for this book:**
 This book is for novice video editors looking to create YouTube videos or promotional videos for products or events, or someone looking to use Filmora in a professional setup. This book majorly focuses on the Windows OS, however, key bindings for Mac are also provided as Filmora works the same for Android and iOS. To get started with this book, all you need is a computer and the Filmora 11 software.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
