@@ -1,8 +1,8 @@
-# Filmora 11 Efficient Editing	
+# Filmora Efficient Editing	
 
-<a href="https://www.packtpub.com/product/filmora-11-efficient-editing/9781801814201?utm_source=github&utm_medium=repository&utm_campaign=9781801814201"><img src="https://static.packt-cdn.com/products/9781801814201/cover/smaller" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/filmora-efficient-editing/9781801814201?utm_source=github&utm_medium=repository&utm_campaign=9781801814201"><img src="https://static.packt-cdn.com/products/9781801814201/cover/smaller" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Filmora 11 Efficient Editing](https://www.packtpub.com/product/filmora-11-efficient-editing/9781801814201?utm_source=github&utm_medium=repository&utm_campaign=9781801814201), published by Packt.
+This is the code repository for [Filmora Efficient Editing](https://www.packtpub.com/product/filmora-11-efficient-editing/9781801814201?utm_source=github&utm_medium=repository&utm_campaign=9781801814201), published by Packt.
 
 **Create high-quality videos for any discipline from scratch using chroma keys, split screens, and audio**
 
