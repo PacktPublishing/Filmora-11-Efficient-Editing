@@ -7,12 +7,12 @@ This is the code repository for [Filmora Efficient Editing](https://www.packtpub
 **Create high-quality videos for any discipline from scratch using chroma keys, split screens, and audio**
 
 ## What is this book about?
-Whether you want to create short films, YouTube videos, music videos, or videos for any social event, Filmora 11 is a powerful, innovative, and user-friendly video editing software that you can use for all this and much more! 
+Whether you want to create short films, YouTube videos, music videos, or videos for any social event, Filmora is a powerful, innovative, and user-friendly video editing software that you can use for all this and much more! 
 
 This book covers the following exciting features:
 * Navigate Filmora's interface with ease
 * Add and manipulate audio using audio tracks
-* Create high-quality professional videos with advanced features in Filmora 11
+* Create high-quality professional videos with advanced features in Filmora
 * Use split screens and Chroma keys to create movie magic
 * Create a gaming video and add humor to it
 * Understand career prospects in the world of video editing
