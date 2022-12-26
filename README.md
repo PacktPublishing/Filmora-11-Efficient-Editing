@@ -44,5 +44,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Music for Film and Game Soundtracks with FL Studio [[Packt]](https://www.packtpub.com/product/music-for-film-and-game-soundtracks-with-fl-studio/9781803233291?utm_source=github&utm_medium=repository&utm_campaign=9781803233291) [[Amazon]](https://www.amazon.com/dp/180323329X)
 
 ## Get to Know the Author
-**Alexander Zacharias**
-Alexander Zacharias is a course instructor at FunTech and a tutor for Filmora. He has extensive experience with creating games, promotional videos, and YouTube videos using tools like Unreal, Filmora, and Ableton.
+**Alexander Zacharias** is a course instructor at FunTech and a tutor for Filmora. He has extensive experience with creating games, promotional videos, and YouTube videos using tools like Unreal, Filmora, and Ableton.
