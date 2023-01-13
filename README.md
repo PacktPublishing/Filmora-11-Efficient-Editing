@@ -45,3 +45,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Alexander Zacharias** is a course instructor at FunTech and a tutor for Filmora. He has extensive experience with creating games, promotional videos, and YouTube videos using tools like Unreal, Filmora, and Ableton.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801814201">https://packt.link/free-ebook/9781801814201 </a> </p>
